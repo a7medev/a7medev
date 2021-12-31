@@ -1,8 +1,8 @@
 ### Hey! I'm Ahmed! 👋
 
-I'm a Full-Stack JavaScript developer from Egypt 🇪🇬. I really enjoy doing anything JavaScript, focusing React Native right now, working on some open source modules and packages. Also love working with Node.js, Go and of course TypeScript!
+Passionate JavaScript developer with over 5 years of experience building quality software, I’ve been working with React/React Native
+for years, building performant and beautiful web/mobile apps, and developing secure and fast as instant backends in Node.js.
 
-#### Follow me! ❤️
+#### Follow me!
 
 - [Twitter](https://twitter.com/a7medev) 🦄
-- [Facebook](https://facebook.com/a7med.elrefaey) 🤡
