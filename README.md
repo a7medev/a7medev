@@ -1,7 +1,6 @@
 ### Hey! I'm Ahmed! 👋
 
-Passionate JavaScript developer with over 5 years of experience building quality software, I’ve been working with React/React Native
-for years, building performant and beautiful web/mobile apps, and developing secure and fast as instant backends in Node.js.
+I'm a passionate JavaScript developer and open source enthusiast with over five years of experience building quality software for developers and app users. During that period, I have built delightful, performant, and accessible experiences for many users. I'm always looking for new opportunities and challenges to improve my skills and gain more knowledge.
 
 #### Follow me!
 
